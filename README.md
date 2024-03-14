@@ -11,6 +11,11 @@ Understand control flow statements such as if statements, switch statements, and
 Learn how to declare methods, pass parameters to methods, define return types, and overload methods in C#.
 ### 5. Classes and Objects
 Discover how to create classes, constructors, properties, and methods in C#. Understand the difference between static and instance members.
+### 6. Arrays and Collections
+Learn about arrays, lists, dictionaries, and sets in C#. Understand how to manipulate these data structures and perform common operations.
+### 7. Exception Handling
+Explore how to handle exceptions using try-catch blocks, throw exceptions, and handle different types of exceptions in C#.
+
 
 
 
