@@ -1,5 +1,5 @@
 # CSharp-Fundamentals
-Welcome to the C# Fundamentals repository! Each topic is covered with code examples and explanations to help you grasp the fundamentals of C#.
+Welcome to the C# Fundamentals repository! Each topic is covered with code examples and explanations to help you grasp the fundamentals of C#
 ## Topics Covered
 ### 1. Variables and Data Types
 Learn about different types of variables in C# such as integers, floating-point numbers, characters, strings, and boolean values. Understand how to declare variables and assign values to them.
